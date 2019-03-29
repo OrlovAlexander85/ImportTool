@@ -1,0 +1,12 @@
+id|firstname|lastname|street|streetnumber|postalcode|town|company|phone
+1|Wolfgang|Maier|Varparannantie |42|81700 |LIEK_SA|Farmer Jack|091234-2798
+2|Frank|Möller|Lützowpla#tz|38|545#74|Birresborn|ddda|06594 18 30 23
+3|Frank|Möller|Lützowplatz|38|54574|Birresborn|Kohls Food Stores|06594 18 30 23
+4|Frank|Möller|Azow|38|54574|Birresborn|Kohls Food Stores|06594 18 30 23
+5|Franka|Möller|Azow|38|54574|Birresborn|Kohls Food Stores|06594 18 30 23
+6|Franka|Möller|Azow|39|*54574|Birresborn|Kohls Food Stores|06594 18 30 23
+7|Frank|Aöller|Lützowplatz|38|54574|Birresborn|Kohls Food Stores|06594 18 30 23
+8|Katrin|Nadel|Charlottenstrasse|45a|01449|Radeberg||+49 351 897007
+9|Frank|Möller|Lützowplatz|38|54524|Birresborn|Kohls Food Stores|06594 18 30 23
+10|Sabine|Weissmuller|Oldesloer Strasse|86|07351|Lobenstein||036651 93 33
+11|Eliza|Corlette|Ikerasassuaq|3924|3924|P.O. Box 218||+29933 24 84
